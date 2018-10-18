@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown(seconds)
-  puts "#{seconds} SECOND(S)!"
+def countdown(secs)
+  puts "#{secs} SECOND(S)!"
   "HAPPY NEW YEAR!"
 end
 
