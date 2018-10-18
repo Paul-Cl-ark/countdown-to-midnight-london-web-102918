@@ -1,5 +1,3 @@
-#write your code here
-
 def countdown(secs)
   counter = secs
   while counter != 0 
